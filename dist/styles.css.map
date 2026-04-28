@@ -1,0 +1,1 @@
+{"version":3,"file":"styles.css","mappings":"AAAA;EACE,SAAS;EACT,8BAA8B;AAChC,C","sources":["webpack://webpack5-react-app/./src/styles.css"],"sourcesContent":["body {\r\n  margin: 0;\r\n  font-family: Arial, sans-serif;\r\n}"],"names":[],"sourceRoot":""}
