@@ -4,4 +4,4 @@ const App = () => {
     return <div>Webpack5 + React</div>
 };
 
-export default App;
+export default Appx;
